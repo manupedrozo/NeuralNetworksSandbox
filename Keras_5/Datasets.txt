@@ -1,0 +1,5 @@
+# Ita-Eng dataset
+https://drive.google.com/file/d/1yBZ6Zgk8byMnTn3-GEBZB1jtSyGqaT1N/view?usp=sharing
+
+# Text generation dataset
+https://drive.google.com/file/d/1nJP5q_WPLwSlOW-G-3OJ-_EP6nWCvdRl/view?usp=sharing
